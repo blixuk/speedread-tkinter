@@ -1,0 +1,2 @@
+# speedread-tkinter
+SpeedRead (Tkinter)
